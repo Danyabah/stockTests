@@ -1,0 +1,12 @@
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\bin\Debug\net6.0\ClassActions.deps.json
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\bin\Debug\net6.0\ClassActions.dll
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\bin\Debug\net6.0\ClassActions.pdb
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\ClassActions.csproj.AssemblyReference.cache
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\ClassActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\ClassActions.AssemblyInfoInputs.cache
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\ClassActions.AssemblyInfo.cs
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\ClassActions.csproj.CoreCompileInputs.cache
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\ClassActions.dll
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\refint\ClassActions.dll
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\ClassActions.pdb
+C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\obj\Debug\net6.0\ref\ClassActions.dll

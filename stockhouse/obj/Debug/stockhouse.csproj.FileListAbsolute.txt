@@ -1,0 +1,12 @@
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.csproj.AssemblyReference.cache
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.Stock.resources
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.Properties.Resources.resources
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.infoForm.resources
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.csproj.GenerateResource.cache
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.csproj.CoreCompileInputs.cache
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\bin\Debug\stockhouse.exe.config
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\bin\Debug\stockhouse.exe
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\bin\Debug\stockhouse.pdb
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.exe
+C:\Users\Даня\Desktop\C# dev\stockTest\stockhouse\obj\Debug\stockhouse.pdb

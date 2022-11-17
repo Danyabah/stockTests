@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0-windows</TargetFramework>
+	  <PackageLicenseFile>ls.txt</PackageLicenseFile>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+	  <Authors>Danya</Authors>
+	  <Version>1.0</Version>
+	  
+  </PropertyGroup>
+	<ItemGroup>
+		<None Include="License\ls.txt" Pack="true" PackagePath="" />
+	</ItemGroup>
+</Project>

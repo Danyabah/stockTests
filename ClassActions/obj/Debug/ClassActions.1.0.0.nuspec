@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClassActions</id>
+    <version>1.0.0</version>
+    <authors>Danya</authors>
+    <license type="file">ls.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\bin\Debug\net6.0-windows\ClassActions.dll" target="lib\net6.0-windows7.0\ClassActions.dll" />
+    <file src="C:\Users\Даня\Desktop\C# dev\Nuget\ClassActions\License\ls.txt" target="ls.txt" />
+  </files>
+</package>
