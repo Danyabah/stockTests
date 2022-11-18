@@ -9,17 +9,17 @@ namespace UnitTest
         public void AddButton()
         {
             Action SCL = new();
-            var result = SCL.Get();
             Tovar mytest = new()
             {
-                Name = "Гвоздь",
+                Name = "ГѓГўГ®Г§Г¤Гј",
                 Size = 11,
-                Material = material.Медь,
+                Material = material.ГЊГҐГ¤Гј,
                 count = 12,
                 minCount = 2,
                 price = 10
             };
             SCL.Add(mytest);
+            var result = SCL.Get();
             Assert.Equal(mytest, result[0]);
         }
 
@@ -27,12 +27,11 @@ namespace UnitTest
         public void ChangeButton()
         {
             Action SCL = new();
-            var result = SCL.Get();
             Tovar mytest = new()
             {
-                Name = "Молоток",
+                Name = "ГЊГ®Г«Г®ГІГ®ГЄ",
                 Size = 14,
-                Material = material.Железо,
+                Material = material.Г†ГҐГ«ГҐГ§Г®,
                 count = 1,
                 minCount = 2,
                 price = 100
@@ -40,14 +39,15 @@ namespace UnitTest
             SCL.Add(mytest);
             Tovar mytest2 = new()
             {
-                Name = "Молоток",
+                Name = "ГЊГ®Г«Г®ГІГ®ГЄ",
                 Size = 14,
-                Material = material.Железо,
+                Material = material.Г†ГҐГ«ГҐГ§Г®,
                 count = 2,
                 minCount = 2,
                 price = 110
             };
             SCL.Change(mytest, mytest2);
+             var result = SCL.Get();
             Assert.Equal(mytest2, result[0]);
         }
 
@@ -55,18 +55,18 @@ namespace UnitTest
         public void DeleteButton()
         {
             Action SCL = new();
-            var result = SCL.Get();
             Tovar mytest = new()
             {
-                Name = "Рама",
+                Name = "ГђГ Г¬Г ",
                 Size = 20,
-                Material = material.Сталь,
+                Material = material.Г‘ГІГ Г«Гј,
                 count = 13,
                 minCount = 2,
                 price = 90
             };
             SCL.Add(mytest);
             SCL.Remove(mytest);
+            var result = SCL.Get();
             Assert.Empty(result);
         }
     }
